@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @skootze
+- 👀 I’m interested in Rust, Zig, data structures, algorithms, and learning programming on a deeper level
+- 🌱 I’m currently learning recursive functions, graph structures, and procedural dungeon generation
+- 📫 How to reach me [@skootze_dev](https://twitter.com/skootze_dev)
